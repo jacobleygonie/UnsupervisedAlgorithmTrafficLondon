@@ -1,6 +1,7 @@
 # UnsupervisedAlgorithmTrafficLondon
 Several clustering methods used on some datasets from LondonTube such as the pollutions rates in the city and the bike/tube traffic
 
+Warning: the database is not provided here. In order to get it, you should either contact me at jacob.leygonie@polytechnique.edu or my colleague Claire Lasserre at claire.lasserre@polytechnique.edu
 
 Different interesting parts in the projetRatp directory
 
